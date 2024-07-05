@@ -122,10 +122,6 @@ cd /mnt/workspace/ComfyUI/
 python main.py
 ```
 
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
